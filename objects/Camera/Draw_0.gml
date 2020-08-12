@@ -59,11 +59,6 @@ with (Ball) {
     event_perform(ev_draw, 0);
 }
 
-with (BillboardSprite) {
-    event_perform(ev_draw, 0);
-}
-
-
 
 
 
